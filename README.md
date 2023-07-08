@@ -4,11 +4,11 @@ Hi 👋 My name is AMIT RAJBHAR
 Programmer | Developer | Learner | Artist Content Creator
 ---------------------------------------------------------
 
-IT Student | HTML, CSS, C++, java with DSALGO, Python | On a mission Of Great Developer.
+IT Student | HTML, CSS, java with DSALGO, Python | On a mission Of a Great Developer.
 
 * 🌍  I'm based in Full Stack Developer from India
 * ✉️  You can contact me at [rajbharamit38@gmail.com](mailto:rajbharamit38@gmail.com)
-* 🧠  I'm learning C, C++ & Java with DS-Algo
+* 🧠  I'm learning C, C++ & Java with DS-Algo, Android Developer 
 
 <a href="https://www.twitter.com/AMIT RAJBHAR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AMIT RAJBHAR?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
